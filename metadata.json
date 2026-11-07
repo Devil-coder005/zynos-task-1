@@ -1,0 +1,8 @@
+{
+  "name": "LABGUARD - AI Linux Security & Hardening",
+  "description": "Enterprise AI-powered Linux security assessment, baseline scanning, system hardening, and automated verification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
